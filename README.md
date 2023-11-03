@@ -3,11 +3,12 @@ Study Buddy is a web-based application that aims to help its users memorize, stu
 
 # Prerequisites
 1. Node.js v18.17.1 or newer
-2. Ubuntu terminal
+2. Ubuntu or Bash terminal
 
 # Step-by-Step Setup
 ## Step 1:
-Download the project file and place it in a directory that your Ubuntu terminal can access.
+Download the project file and place it in a directory that your terminal can access.
+Change the 'dot.env' file in the backend folder to just '.env': \
 
 ## Step 2: 
 In your terminal, place yourself in the project's file directory.
