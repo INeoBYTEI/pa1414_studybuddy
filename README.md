@@ -43,7 +43,7 @@ Then, install all the required node dependencies. These should already be in the
 ## Step 5:
 Once all the dependencies have been properly downloaded. You should now be able to run the backend and the frontend respectively. \
 \
-To run each component, two instances of your terminal is required. One will run the frontend and the other will be running the backend. \
+To run each component, two instances of your terminal is required. One will run the frontend and the other will be running the backend. 
 ### Terminal 1 - Backend
 In this terminal, change your directory to the **backend** (if you're not already there).
 > **Run:** \
