@@ -7,7 +7,7 @@ Study Buddy is a web-based application that aims to help its users memorize, stu
 
 # Step-by-Step Setup
 ## Step 1:
-Download the project file and place it in a directory that your terminal can access.
+Download the project file and unzip it in a directory that your terminal can access.
 Change the 'dot.env' file in the backend folder to just '.env'
 > **right-click** 'dot.env' \
 > **select** 'rename' \
