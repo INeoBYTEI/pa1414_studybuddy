@@ -55,7 +55,7 @@ Then start up the **backend** server.
 
 The terminal should show the following message when the server is up: \
 \
-![alt text for screen readers](https://cdn.discordapp.com/attachments/1142576555789389934/1170018409619128431/image.png?ex=6557838e&is=65450e8e&hm=9fa292c488dba2fa2b884ab55fcce982c0818cdadbfbd08b6370e804d4a845f2&)
+![alt text for screen readers](https://cdn.discordapp.com/attachments/1142576555789389934/1170018409619128431/image.png?ex=6557838e&is=65450e8e&hm=9fa292c488dba2fa2b884ab55fcce982c0818cdadbfbd08b6370e804d4a845f2&) \
 \
 Each component should be able to run on their own without crashing. However, it is **recommended** to run the backend prior to running the frontend in order to ensure that each component works as it should.
 ### Terminal 2 - Frontend
