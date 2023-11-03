@@ -53,7 +53,7 @@ Then start up the **backend** server.
 >   npm run dev
 >
 
-The terminal should show the following message when the server is up:
+The terminal should show the following message when the server is up: \
 ![alt text for screen readers](https://cdn.discordapp.com/attachments/1142576555789389934/1170018409619128431/image.png?ex=6557838e&is=65450e8e&hm=9fa292c488dba2fa2b884ab55fcce982c0818cdadbfbd08b6370e804d4a845f2&)
 \
 Each component should be able to run on their own without crashing. However, it is **recommended** to run the backend prior to running the frontend in order to ensure that each component works as it should.
@@ -67,5 +67,5 @@ Then start up the **frontend** server.
 >   npm start
 >
 
-The terminal should show the following message when the server is up:
+The terminal should show the following message when the server is up: \
 ![alt text for screen readers](https://cdn.discordapp.com/attachments/1142576555789389934/1170018247052107916/image.png?ex=65578367&is=65450e67&hm=9905d628f7200c4058fd29f203c4808b6a0f3996e99779f0c3c01e11c6f7d8e0&)
