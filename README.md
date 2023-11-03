@@ -71,4 +71,8 @@ Then start up the **frontend** server.
 >
 
 The terminal should show the following message when the server is up: \
-![alt text for screen readers](https://cdn.discordapp.com/attachments/1142576555789389934/1170018247052107916/image.png?ex=65578367&is=65450e67&hm=9905d628f7200c4058fd29f203c4808b6a0f3996e99779f0c3c01e11c6f7d8e0&)
+![alt text for screen readers](https://cdn.discordapp.com/attachments/1142576555789389934/1170018247052107916/image.png?ex=65578367&is=65450e67&hm=9905d628f7200c4058fd29f203c4808b6a0f3996e99779f0c3c01e11c6f7d8e0&) \
+\
+When the frontend server is up, it should open an new tab in your default browser to the Study Buddy home page. \
+If not, it should be at the following link: 
+> http://localhost:3000
