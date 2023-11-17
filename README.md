@@ -76,3 +76,13 @@ The terminal should show the following message when the server is up: \
 When the frontend server is up, it should open an new tab in your default browser to the Study Buddy home page. \
 If not, it should be at the following link: 
 > http://localhost:3000
+>
+
+#Database
+The Database should be accessible through MongoDB Compass
+> Download: https://www.mongodb.com/try/download/compass
+>
+When MongoDB Compass is downloaded, paste the following link in your browser
+> Link: mongodb+srv://sb_admin:StudyBuddy@studybuddy.1wrnbwx.mongodb.net/?retryWrites=true&w=majority
+>
+This should request to open Compass, accept and now you should be able to view and edit the database by selecting the collection called 'test'
