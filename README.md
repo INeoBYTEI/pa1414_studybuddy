@@ -78,7 +78,7 @@ If not, it should be at the following link:
 > http://localhost:3000
 >
 
-#Database
+# Database
 The Database should be accessible through MongoDB Compass
 > Download: https://www.mongodb.com/try/download/compass
 >
